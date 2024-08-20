@@ -1,0 +1,27 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.NOT_FOUND_ERROR = exports.TASK_UPLOADS_EXCEEDED_ERROR = exports.TASK_SUBMITTED_ERROR = exports.TASK_NOT_FOUND_ERROR = exports.MINIMUM_DATE_EXCEEDS_MAXIMUM_DATE_ERROR = exports.INVALID_USER_ERROR = exports.INVALID_UPDATED_AT_ERROR = exports.INVALID_TASK_ID_ERROR = exports.INVALID_TASK_ERROR = exports.INVALID_STATE_ERROR = exports.INVALID_PASSWORD_ERROR = exports.INVALID_MOBILE_PHONE_NUMBER_ERROR = exports.INVALID_MINIMUM_DATE_ERROR = exports.INVALID_MAXIMUM_DATE_ERROR = exports.INVALID_JWT_TOKEN_ERROR = exports.INVALID_ID_ERROR = exports.INVALID_EMAIL_ERROR = exports.INVALID_DATE_OF_BIRTH_ERROR = exports.INVALID_CREATED_AT_ERROR = exports.EMAIL_NOT_FOUND_ERROR = exports.INTERNAL_SERVER_ERROR = exports.ACCOUNT_NOT_ACTIVE_ERROR = exports.AUTH_ERROR = void 0;
+exports.AUTH_ERROR = 'auth-error';
+exports.ACCOUNT_NOT_ACTIVE_ERROR = 'account-not-active-error';
+exports.INTERNAL_SERVER_ERROR = 'internal-server-error';
+exports.EMAIL_NOT_FOUND_ERROR = 'email-not-found-error';
+exports.INVALID_CREATED_AT_ERROR = 'invalid-created-at-error';
+exports.INVALID_DATE_OF_BIRTH_ERROR = 'invalid-date-of-birth-error';
+exports.INVALID_EMAIL_ERROR = 'invalid-email-error';
+exports.INVALID_ID_ERROR = 'invalid-id-error';
+exports.INVALID_JWT_TOKEN_ERROR = 'invalid-jwt-token-error';
+exports.INVALID_MAXIMUM_DATE_ERROR = 'invalid-maximum-date-error';
+exports.INVALID_MINIMUM_DATE_ERROR = 'invalid-minimum-date-error';
+exports.INVALID_MOBILE_PHONE_NUMBER_ERROR = 'invalid-mobile-phone-number-error';
+exports.INVALID_PASSWORD_ERROR = 'invalid-password-error';
+exports.INVALID_STATE_ERROR = 'invalid-state-error';
+exports.INVALID_TASK_ERROR = 'invalid-task-error';
+exports.INVALID_TASK_ID_ERROR = 'invalid-task-id-error';
+exports.INVALID_UPDATED_AT_ERROR = 'ivnalid-updated-at-error';
+exports.INVALID_USER_ERROR = 'invalid-user-error';
+exports.MINIMUM_DATE_EXCEEDS_MAXIMUM_DATE_ERROR = 'minimum-exceeds-maximum-date-error';
+exports.TASK_NOT_FOUND_ERROR = 'task-not-found-error';
+exports.TASK_SUBMITTED_ERROR = 'task-submitted-error';
+exports.TASK_UPLOADS_EXCEEDED_ERROR = 'task-uploads-exceeded-error';
+exports.NOT_FOUND_ERROR = 'not-found-error';
+//# sourceMappingURL=response-messages.js.map

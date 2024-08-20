@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.UPLOAD_REPOSITORY = exports.TASK_REPOSITORY = exports.BROKER_REPOSITORY = exports.APPLICATION_REPOSITORY = exports.APPLICANT_REPOSITORY = void 0;
+exports.APPLICANT_REPOSITORY = 'APPLICANT_REPOSITORY';
+exports.APPLICATION_REPOSITORY = 'APPLICATION_REPOSITORY';
+exports.BROKER_REPOSITORY = 'BROKER_REPOSITORY';
+exports.TASK_REPOSITORY = 'TASK_REPOSITORY';
+exports.UPLOAD_REPOSITORY = 'UPLOAD_REPOSITORY';
+//# sourceMappingURL=repositories.js.map
